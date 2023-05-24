@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zamrok
 - 👀 I’m interested in stuff&things right
-- 🌱 I’m currently learning Typescript / C#
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me ...
 
